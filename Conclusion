@@ -1,0 +1,7 @@
+As we can see from the data the Support Vector Machine, the Neural Network and the fused classifier are our three best models.
+
+These models reach satifactory levels of accuracy, precision and recall on the entries of the test set.
+
+The Neural Network seems to be performing a step ahead of all the other models. Even the fused model doesn't manage to significally improve on the results of the Neural Network meaning that the additional complexity did not manage to improve the already obtained results.
+
+To conclude, by looking at the results shown by the confusion matrices, given the fact that these benchmarks are performed on new and unseen data we can say that our final methods can detect a liar with sufficient likelihood.
